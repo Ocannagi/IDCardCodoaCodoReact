@@ -1,0 +1,21 @@
+body{
+    background-image: url("./imagenes/paraLinkedIn.jpg");
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    position: relative;
+}
+
+#cards1{
+    margin-top: 10rem;
+}
+
+#marco{
+    background-color: rgb(245, 231, 215);
+}
+
+.animate__animated.animate__backInRight {
+    --animate-duration: 4s;
+  }
